@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aitechguy0105
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on projects related to body measurement system.
+- 💞️ I’m looking to collaborate on projects related to Data Science
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: ???
 
